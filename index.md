@@ -10,7 +10,7 @@ Outside of class, I'm a Data Science Fellow for CUNY Tech Prep, I serve as a Stu
 
 Outside of academia, I work part time as a ramp agent at JFK for JetBlue.
 
-**Fun Facts** I'm one of the many tall people that don't like basketball, an all around chill guy, and I can be very philisophical at times
+**Fun Facts** I'm one of the many tall people that don't play basketball, all around I'm a chill guy, and I can be very philisophical at times
 
 # Resume
 [View My Resume](/assets/Kyame_Israel_SWE_Resume.pdf)
