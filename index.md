@@ -11,7 +11,7 @@ Outside of academia, I work part time as a ramp agent for JFK at JetBlue.
 **Fun Facts** I'm one of the many tall people that don't like basketball, an all around chill guy, and I can be very philisophical at times
 
 # Resume
-[View My Resume](Kyame_Israel_SWE_Resume.pdf)
+[View My Resume](/assets/Kyame_Israel_SWE_Resume.pdf)
 
 # Connect with me on:
 - [LinkedIn](https://www.linkedin.com/in/kyameisrael/)
