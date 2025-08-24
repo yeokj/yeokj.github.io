@@ -14,8 +14,8 @@ Outside of academia, I work part time as a ramp agent for JFK at JetBlue.
 [View My Resume](Kyame_Israel_SWE_Resume.pdf)
 
 # Connect with me on:
-[LinkedIn](https://www.linkedin.com/in/kyameisrael/)
-[GitHub](https://github.com/yeokj)
+- [LinkedIn](https://www.linkedin.com/in/kyameisrael/)
+- [GitHub](https://github.com/yeokj)
 
 
 
