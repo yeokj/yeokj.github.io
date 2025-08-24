@@ -1,6 +1,6 @@
 # Hi, I'm Kyame J. Israel 👋🏾
 
-![Profile Picture](/assets/Kyame_Israel_WS.jpg)
+<img src="/assets/Kyame_Israel_WS.jpg" alt="Profile Picture" width="250"/>
 
 # About Me
 I'm a born and raised Brooklyn native who comes from a Jamaican father and an American mother born in the Y2K era.
